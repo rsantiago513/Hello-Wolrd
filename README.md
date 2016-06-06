@@ -1,2 +1,2 @@
 # Hello-Wolrd
-Just another repository
+print ('Hello Word!!!')
