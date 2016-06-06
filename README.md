@@ -1,2 +1,5 @@
 # Hello-Wolrd
-print ('Hello Word!!!')
+
+Hi,
+
+I like pyhton, but C++ can be better.
